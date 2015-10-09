@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
+    NSLog(@"我要开始使用gitHub做版本控制了");
 
 }
 
