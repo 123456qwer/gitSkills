@@ -18,6 +18,8 @@
     [super viewDidLoad];
 
     NSLog(@"我要开始使用gitHub做版本控制了");
+    
+    NSLog(@"继续做更改，看看能否查看");
 
 }
 
