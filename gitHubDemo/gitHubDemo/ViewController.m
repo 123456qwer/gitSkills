@@ -25,6 +25,12 @@
 
 }
 
+- (void)addAction:(UIButton *)sender
+{
+   
+    NSLog(@"再次加载一些东西");
+}
+
 - (void)gitHubAction
 {
 
