@@ -18,10 +18,14 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-
+    NSLog(@"123");
 
 }
 
+- (void)aciton
+{
+
+}
 
 
 - (void)didReceiveMemoryWarning {
